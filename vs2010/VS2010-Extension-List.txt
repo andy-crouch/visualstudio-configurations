@@ -1,0 +1,12 @@
+Installed Visual Studion 2012 Extensions
+========================================
+
+This is a list of the Extensions I have installed in Visual Studio 2010 :
+
+	- WoVS Default Browser Switcher.
+	- VsVim.
+	- Spell Checker.
+	- SHFB - Sandcastle Documentation.
+	- Javascript Parser.
+	- JScript Editor Extensions.
+	
