@@ -17,4 +17,6 @@ I currently use a very stripped down IDE set-up which runs the [Jellybeans] (htt
 
 Apart from the keyboard short cuts my configuration strips Visual Studio right back to one Main tool bar and collapses all of the tool windows.
 
+To load the my config open Visual Studio 2010 and select Tools > Options.  In the dialog select "Import and Export Settings" and use the Browse button to select the file from your cloned repo.
+
 Any suggestions or comments are always welcome
