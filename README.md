@@ -38,3 +38,5 @@ The most common short cuts I use over what is provided by [VsVim] (http://visual
 * Ctrl-a, Ctrl-d - Attach the debugger to a process.
 * Ctrl-d, Ctrl-d - Detach the debugger from all processes.
 * Ctrl-o, Ctrl-f - Open the file manager in the directory of the file being edited.
+* Ctrl-k, Ctrl-c - Comment the current line.
+* Ctrl-k, Ctrl-u - Uncomment the current line.
