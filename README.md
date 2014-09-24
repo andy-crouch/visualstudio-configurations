@@ -40,3 +40,19 @@ The most common short cuts I use over what is provided by [VsVim] (http://visual
 * Ctrl-o, Ctrl-f - Open the file manager in the directory of the file being edited.
 * Ctrl-k, Ctrl-c - Comment the current line.
 * Ctrl-k, Ctrl-u - Uncomment the current line.
+* Ctrl-k, Ctrl-o - Keep open current preview window.
+* Ctrl-c, Ctrl-o - Close all windows other than the current file window.
+* Ctrl-r, Ctrl-t - Run all tests in the solution.
+* Ctrl-Shift-l   - Open Solution Explorer.
+* Ctrl-Shift-e   - Open Errors window.
+* Ctrl-Shift-s   - Open SQL Explorer wimdow.
+* Ctrl-Shift-t   - Open Test Explorer window.
+* Ctrl-Shift-p   - Open the Package Manager Console.
+* Ctrl-g, Ctrl-v - Go to associated view.
+* Ctrl-a, Ctrl-v - Add  associated view.
+* Ctrl-t, Ctrl-e - Open Team Explorer
+* Ctrl-v, Ctrl-s - Open Source Control Explorer
+
+
+
+
