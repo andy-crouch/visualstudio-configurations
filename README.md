@@ -10,6 +10,10 @@ I was hosting this in my personal DropBox account but as I have been [cleaning u
 
 Each version of Visual Studio has it's own sub-directory and you are more than welcome to use a clone of my settings as a basis for your own configuration.  However, I change things at will to modify my own work flow and will push these changes on a frequent occurrence.
 
+To load the my config open Visual Studio and select Tools > Options.  In the dialog select "Import and Export Settings" and use the Browse button to select the file from your cloned repo.
+
+Any suggestions or comments are always welcome
+
 vs2010 Configuration
 --------------------
 
@@ -17,16 +21,15 @@ I currently use a very stripped down IDE set-up which runs the [Jellybeans] (htt
 
 Apart from the keyboard short cuts my configuration strips Visual Studio right back to one Main tool bar and collapses all of the tool windows.
 
-To load the my config open Visual Studio 2010 and select Tools > Options.  In the dialog select "Import and Export Settings" and use the Browse button to select the file from your cloned repo.
 
-Any suggestions or comments are always welcome
-
-vs2012 Configuration
---------------------
+vs2012/vs2012-win8 Configuration
+--------------------------------
 
 I have now installed Visual Studio 2012 and it seems to have picked up a lot of settings from my 2010 configuration.
 
 Therefore, I am still using a very stripped down IDE set-up which runs the [Jellybeans] (http://studiostyl.es/schemes/jellybeans) theme.  I have only installed the [VsVim] (http://visualstudiogallery.msdn.microsoft.com/59ca71b3-a4a3-46ca-8fe1-0e90e3f79329) extension and most of my keyboard shortcuts came across from my 2010 configuration.  If you import my settings it is highly recommended you go through the Keyboard short cuts to see what's changed from the standard configuration.
+
+The -win8 variation is a copy of my 2012 config and tweaked for my Windows 8 machine.  Nothing particularly different apart from my font settings.
 
 Common Keyboard Shortcuts
 -------------------------
@@ -41,13 +44,9 @@ The most common short cuts I use over what is provided by [VsVim] (http://visual
 * Ctrl-k, Ctrl-c - Comment the current line.
 * Ctrl-k, Ctrl-u - Uncomment the current line.
 * Ctrl-k, Ctrl-o - Keep open current preview window.
-* Ctrl-c, Ctrl-o - Close all windows other than the current file window.
-* Ctrl-r, Ctrl-t - Run all tests in the solution.
 * Ctrl-Shift-l   - Open Solution Explorer.
 * Ctrl-Shift-e   - Open Errors window.
 * Ctrl-Shift-s   - Open SQL Explorer wimdow.
-* Ctrl-Shift-t   - Open Test Explorer window.
-* Ctrl-Shift-p   - Open the Package Manager Console.
 * Ctrl-g, Ctrl-v - Go to associated view.
 * Ctrl-a, Ctrl-v - Add  associated view.
 * Ctrl-t, Ctrl-e - Open Team Explorer
