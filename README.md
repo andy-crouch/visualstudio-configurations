@@ -1,5 +1,4 @@
-Visual Studio Configurations
-============================
+![SimpleConfig](logo.png)
 
 About visualstudio-configurations
 ---------------------------------
@@ -51,7 +50,3 @@ The most common short cuts I use over what is provided by [VsVim] (http://visual
 * Ctrl-a, Ctrl-v - Add  associated view.
 * Ctrl-t, Ctrl-e - Open Team Explorer
 * Ctrl-v, Ctrl-s - Open Source Control Explorer
-
-
-
-
