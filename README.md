@@ -1,4 +1,4 @@
-![SimpleConfig](logo.png)
+![visual-studio-configurations](logo.png)
 
 About visualstudio-configurations
 ---------------------------------
@@ -13,12 +13,12 @@ To load the my config open Visual Studio and select Tools > Options.  In the dia
 
 Any suggestions or comments are always welcome
 
-vs2010 Configuration
---------------------
+vs2013 Configuration
+--------------------------------
 
-I currently use a very stripped down IDE set-up which runs the [Jellybeans] (http://studiostyl.es/schemes/jellybeans) theme which I have modified to make better (imho!).  A lot of the standard keyboard short cuts have been changed as I use the excellent [VsVim] (http://visualstudiogallery.msdn.microsoft.com/59ca71b3-a4a3-46ca-8fe1-0e90e3f79329) extension to implement Vim key bindings.  If you import my settings it is highly recommended you go through the Keyboard short cuts to see what's changed from the standard configuration.
+I have now installed Visual Studio 2013 and it seems to have picked up a lot of settings from my 2012 configuration.
 
-Apart from the keyboard short cuts my configuration strips Visual Studio right back to one Main tool bar and collapses all of the tool windows.
+So I have retained my stripped down IDE set-up which runs the [Jellybeans] (http://studiostyl.es/schemes/jellybeans) theme.  I have only installed the [VsVim] (http://visualstudiogallery.msdn.microsoft.com/59ca71b3-a4a3-46ca-8fe1-0e90e3f79329) extension and most of my keyboard shortcuts came across from my 2012 configuration.  If you import my settings it is highly recommended you go through the Keyboard short cuts to see what's changed from the standard configuration.
 
 
 vs2012/vs2012-win8 Configuration
@@ -29,6 +29,13 @@ I have now installed Visual Studio 2012 and it seems to have picked up a lot of 
 Therefore, I am still using a very stripped down IDE set-up which runs the [Jellybeans] (http://studiostyl.es/schemes/jellybeans) theme.  I have only installed the [VsVim] (http://visualstudiogallery.msdn.microsoft.com/59ca71b3-a4a3-46ca-8fe1-0e90e3f79329) extension and most of my keyboard shortcuts came across from my 2010 configuration.  If you import my settings it is highly recommended you go through the Keyboard short cuts to see what's changed from the standard configuration.
 
 The -win8 variation is a copy of my 2012 config and tweaked for my Windows 8 machine.  Nothing particularly different apart from my font settings.
+
+vs2010 Configuration
+--------------------
+
+I currently use a very stripped down IDE set-up which runs the [Jellybeans] (http://studiostyl.es/schemes/jellybeans) theme which I have modified to make better (imho!).  A lot of the standard keyboard short cuts have been changed as I use the excellent [VsVim] (http://visualstudiogallery.msdn.microsoft.com/59ca71b3-a4a3-46ca-8fe1-0e90e3f79329) extension to implement Vim key bindings.  If you import my settings it is highly recommended you go through the Keyboard short cuts to see what's changed from the standard configuration.
+
+Apart from the keyboard short cuts my configuration strips Visual Studio right back to one Main tool bar and collapses all of the tool windows.
 
 Common Keyboard Shortcuts
 -------------------------
